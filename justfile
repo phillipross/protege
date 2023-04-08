@@ -6,7 +6,7 @@
 
 export JAVA_VER_DISTRO_11 := "11.0.18-zulu"
 export JAVA_VER_DISTRO_17 := "17.0.6-zulu"
-export JAVA_VER_DISTRO_19 := "19.0.2-zulu"
+export JAVA_VER_DISTRO_20 := "20-zulu"
 export DOCKER_CMD := "docker container run --rm -it"
 export VOL_NAME := "protegeproject-protege"
 export M2_REPO := "/root/.m2/repository"
